@@ -1,6 +1,6 @@
 FactoryBot.define do
   factory :board do
-    name "Monica"
+    name "Macarena"
     body "some text and shit"
   end
 end
